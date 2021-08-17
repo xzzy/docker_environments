@@ -1,0 +1,2 @@
+hardstatus alwayslastline "%{+b wb}%H %{g} | %{+b wb} %c | %d.%m.%Y |%{= KW} %-w%{= wk}%50>%n %t%{-}%+w%<"
+defscrollback 100000
